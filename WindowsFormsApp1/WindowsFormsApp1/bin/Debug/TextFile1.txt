@@ -1,0 +1,16 @@
+﻿Hello
+How are you
+What time is it
+Wake up
+Stop
+Stop Listening
+Show list
+Hide List
+Application
+Manual
+Disable
+Play Music
+Stop Music
+Check mail
+Open youtube
+Open facebook

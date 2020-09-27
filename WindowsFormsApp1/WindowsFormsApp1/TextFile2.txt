@@ -1,0 +1,13 @@
+﻿Open application
+Where am I now
+Back
+What can you do?
+Add application
+Delete application
+Update name
+Show list
+Hide list
+Open Application
+Manual
+Disable
+Stop Listening
